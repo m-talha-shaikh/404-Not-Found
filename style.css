@@ -15,7 +15,6 @@
     align-items: center;
     flex-direction: column;
     max-width: 100vw;
-    /*padding: clamp(20px,6vw;*/
     padding: 30px clamp(20px,6vw,50px); 
     background-color: rgb(237, 224, 201);
 }
@@ -30,7 +29,6 @@ h1{
     text-transform: uppercase;
     margin: 15px 0;
     padding: 10px;
-    /* background-color: pink; */
 }
 
 figure{
@@ -38,7 +36,6 @@ figure{
     justify-content: center;
     align-items: center;
     padding: 30px 5%;
-    /* background-color: green; */
 
 }
 
@@ -46,7 +43,6 @@ img {
     width: 90%;
     max-width: 600px;
     height: auto;
-    /* background-color: yellow; */
 }
 
 aside{
@@ -76,7 +72,7 @@ aside{
     padding-left: 0;
     font-weight: 200;
     font-size: 18px;
-    letter-spacing: 1.5;
+    letter-spacing: 1.5px;
     line-height: 25px;
     margin: 15px 0;
 }
@@ -108,7 +104,6 @@ h3{
     color: black;
 }
     
-}
 
 h3 > a{
     color:rgb(226, 83, 43);
